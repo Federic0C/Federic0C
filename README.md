@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fede&label=Profile%20views&color=7300ff&style=flat" alt="fede" /> </p>
 
-- 🔭 I’m currently working on **Gulliver**
-
+- 🔭 I’m currently working on **Gulliver app** _(android - front end e backend)_
+  
 - 📫 How to reach me **fvdeevfx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
